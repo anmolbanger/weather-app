@@ -1,9 +1,10 @@
-import React from 'react'
+import React from 'react';
+import WeatherApp from './WeatherApp';
 
 const App = () => {
   return (
     <div>
-      <h1>jjj</h1>
+      <WeatherApp/>
     </div>
   )
 }
